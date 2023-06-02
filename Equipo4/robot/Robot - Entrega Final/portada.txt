@@ -1,0 +1,15 @@
+    [00]                                         [00]
+   /|##|\ --------------------------------------/|##|\
+    d  b |                                      |d  b
+         |                                      |
+         |                                      |
+         |         BIENVENIDO AL JUEGO          |
+         |            DEL LABERINTO             |
+         |                  ;)                  |
+         |                                      |
+    [00] |                                      |[00]
+   /|##|\ --------------------------------------/|##|\
+    d  b                                         d  b
+
+     
+     Presione cualquier tecla para continuar   (W,A,S,D)

@@ -1,0 +1,2 @@
+001            valery         590            existe         contador       
+003            joel           456342345      existente      contador       

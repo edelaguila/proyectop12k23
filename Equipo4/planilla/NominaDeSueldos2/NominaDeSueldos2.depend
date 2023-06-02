@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1685419517 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Usuario.h"
+
+1684705740 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\usuario.h
+	<iostream>
+
+1685741742 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\empleados.cpp
+	"Empleados.h"
+	"Usuario.h"
+	"Bitacora.h"
+	"Planilla.h"
+	"InfoEmpleados.h"
+	<ctime>
+	<fstream>
+	<iomanip>
+
+1684689161 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\empleados.h
+	<iostream>
+
+1685401254 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\bitacora.h
+	<iostream>
+
+1685728010 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1685684307 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\administracion.cpp
+	"Administracion.h"
+	"Usuario.h"
+	"Bitacora.h"
+	"Aplicaciones.h"
+	"InfoEmpleados.h"
+	"Puestos.h"
+	"Planilla.h"
+	<ctime>
+	<fstream>
+	<iomanip>
+
+1685677126 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\administracion.h
+	<iostream>
+
+1685656000 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\aplicaciones.h
+	<iostream>
+
+1685737883 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\usuario.cpp
+	"Usuario.h"
+	"Administracion.h"
+	"Empleados.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1685728201 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\aplicaciones.cpp
+	"Aplicaciones.h"
+	"Bitacora.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+
+1685736308 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\infoempleados.h
+	<iostream>
+
+1685741408 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\infoempleados.cpp
+	"InfoEmpleados.h"
+	"Bitacora.h"
+	"Calculos.h"
+	"Planilla.h"
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+
+1684705446 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\confiempleados.cpp
+	"ConfiEmpleados.h"
+
+1684705358 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\confiempleados.h
+	<iostream>
+
+1685739921 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\calculos.cpp
+	"Calculos.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<iomanip>
+
+1685739921 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\calculos.h
+	<iostream>
+
+1685655811 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\puestos.h
+	<iostream>
+
+1685728338 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\puestos.cpp
+	"Puestos.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1685741742 source:c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\src\planilla.cpp
+	"Planilla.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1685741742 c:\users\cristhall\onedrive\escritorio\universidad\tercer semestre\programación_i\tareasp19959228588\nominadesueldos2\include\planilla.h
+	<iostream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Usuario.h"
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\usuario.h
+	<iostream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\administracion.cpp
+	"Administracion.h"
+	"Usuario.h"
+	"Bitacora.h"
+	"Aplicaciones.h"
+	"InfoEmpleados.h"
+	"Puestos.h"
+	"Planilla.h"
+	<ctime>
+	<fstream>
+	<iomanip>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\administracion.h
+	<iostream>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\bitacora.h
+	<iostream>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\aplicaciones.h
+	<iostream>
+
+1685743524 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\infoempleados.h
+	<iostream>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\puestos.h
+	<iostream>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\planilla.h
+	<iostream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\aplicaciones.cpp
+	"Aplicaciones.h"
+	"Bitacora.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\calculos.cpp
+	"Calculos.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<iomanip>
+
+1685742097 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\calculos.h
+	<iostream>
+
+1685743524 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\empleados.cpp
+	"Empleados.h"
+	"Usuario.h"
+	"Bitacora.h"
+	"Planilla.h"
+	"InfoEmpleados.h"
+	<ctime>
+	<fstream>
+	<iomanip>
+
+1685743525 d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\include\empleados.h
+	<iostream>
+
+1685743532 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\infoempleados.cpp
+	"InfoEmpleados.h"
+	"Bitacora.h"
+	"Calculos.h"
+	"Planilla.h"
+	<conio.h>
+	<iomanip>
+	<iostream>
+	<fstream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\planilla.cpp
+	"Planilla.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\puestos.cpp
+	"Puestos.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1685742097 source:d:\universidad\3ersemestre\programacion\programasgb\cristhall\tareasp19959228588\nominadesueldos2\src\usuario.cpp
+	"Usuario.h"
+	"Administracion.h"
+	"Empleados.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
