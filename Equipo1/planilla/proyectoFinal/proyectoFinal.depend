@@ -1,0 +1,516 @@
+# depslib dependency file v1.0
+1684366017 source:c:\users\kesdy\desktop\menus\menuusuario2\proyectofinal\main.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<ctime>
+
+1684365954 c:\users\kesdy\desktop\menus\menuusuario2\proyectofinal\include\usuario.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<ctime>
+
+1684764971 source:c:\users\julio\downloads\menus\menuusuario2\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1684760922 c:\users\julio\downloads\menus\menuusuario2\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1684727353 source:c:\users\julio\downloads\menus\menuusuario2\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1684763431 c:\users\julio\downloads\menus\menuusuario2\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1684764171 source:c:\users\julio\downloads\menus\menuusuario2\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685346083 source:c:\users\lima\desktop\proyecto tun\final\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685353799 c:\users\lima\desktop\proyecto tun\final\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348259 c:\users\lima\desktop\proyecto tun\final\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348259 source:c:\users\lima\desktop\proyecto tun\final\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685376738 source:c:\users\lima\desktop\proyecto tun\final\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685346083 source:c:\users\julio\downloads\proyecto tun\final\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685414788 c:\users\julio\downloads\proyecto tun\final\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348259 c:\users\julio\downloads\proyecto tun\final\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685412617 source:c:\users\julio\downloads\proyecto tun\final\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685414906 source:c:\users\julio\downloads\proyecto tun\final\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685346084 source:c:\users\kesdy\downloads\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685414790 c:\users\kesdy\downloads\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348260 c:\users\kesdy\downloads\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685412618 source:c:\users\kesdy\downloads\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685418644 source:c:\users\kesdy\downloads\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685346084 source:c:\users\kesdy\desktop\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685414790 c:\users\kesdy\desktop\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348260 c:\users\kesdy\desktop\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685412618 source:c:\users\kesdy\desktop\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685542556 source:c:\users\kesdy\desktop\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685346084 source:c:\users\lima\desktop\nuevo\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685414790 c:\users\lima\desktop\nuevo\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685348260 c:\users\lima\desktop\nuevo\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685594617 source:c:\users\lima\desktop\nuevo\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685595311 source:c:\users\lima\desktop\nuevo\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 source:c:\users\kesdy\downloads\tareasprograuno2k23-main\nomina umg\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685743219 c:\users\kesdy\downloads\tareasprograuno2k23-main\nomina umg\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 c:\users\kesdy\downloads\tareasprograuno2k23-main\nomina umg\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 source:c:\users\kesdy\downloads\tareasprograuno2k23-main\nomina umg\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 source:c:\users\kesdy\documents\programacion1\final\proyectofinal\main.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685743219 c:\users\kesdy\documents\programacion1\final\proyectofinal\include\usuario.h
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 c:\users\kesdy\documents\programacion1\final\proyectofinal\include\bitacora.h
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685720798 source:c:\users\kesdy\documents\programacion1\final\proyectofinal\src\bitacora.cpp
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
+1685768342 source:c:\users\kesdy\documents\programacion1\final\proyectofinal\src\usuario.cpp
+	"usuario.h"
+	"bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	<vector>
+	<chrono>
+
