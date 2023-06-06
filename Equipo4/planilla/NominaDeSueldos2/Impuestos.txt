@@ -1,0 +1,4 @@
+bonificacion            250
+igss                    0.0483
+isrmenor                0.05
+isrmayor                0.07

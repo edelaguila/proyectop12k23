@@ -1,0 +1,19 @@
+
+1.	Link de repositorio de proyecto ROBOT de Github del Coordinador
+https://github.com/Melvinbeat/tareasp19959223148/tree/main/Robot%20-%20Entrega%20Final%20Proyecto
+
+2.	Subir rama Final al repositorio del Catedrático
+https://github.com/Melvinbeat/proyectop12k23
+
+3.	Link del Cronograma actualizado del proyecto
+https://docs.google.com/spreadsheets/d/1D6WwLRCdRDc88N_o8px3Co6Lh1U-edqt/edit?usp=sharing&ouid=117230596162851558556&rtpof=true&sd=true
+
+4.	Archivo de control de desempeño
+https://docs.google.com/spreadsheets/d/1BEVs26WK5m0qw7aRqx817An_GUI_NlEj/edit?usp=sharing&ouid=117230596162851558556&rtpof=true&sd=true
+
+5.	Archivo Log del coordinador
+https://docs.google.com/document/d/18qMlbVSDvlDiM1ns_JgOIE0_yyrofk5SHEy0xwqBhu0/edit?usp=sharing
+
+6.	link de video de la ejecución del programa JUEGO ROBOT con la participación del grupo (con camara abierta)
+https://drive.google.com/file/d/1j_ChSDDUVbeo9APpXN8MA_ejm9pNYtuu/view?usp=sharing
+
